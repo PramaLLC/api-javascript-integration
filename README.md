@@ -57,4 +57,4 @@ node runForegroundRemoval.js
 
 
 ## API documentation
-For full API documentation visit: https://backgrounderase.net/api-docs
+For full API documentation visit: https://backgrounderase.net/docs

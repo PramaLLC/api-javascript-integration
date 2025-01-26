@@ -13,7 +13,7 @@ npm install
 You must have a business subscription that can be found at https://backgrounderase.net/pricing. To generate the token navigate to
 https://backgrounderase.net/account and scroll to the bottom of the page.
 
-## Example Code
+## Example code inside runForegroundRemoval.js
 
 ```javascript
 const fs = require('fs');
@@ -50,11 +50,11 @@ async function main() {
 main();
 ```
 
-## To Run The Example Code
+## To run the example code
 ```bash
 node runForegroundRemoval.js
 ```
 
 
-## API Documentation
+## API documentation
 For full API documentation visit: https://backgrounderase.net/api-docs

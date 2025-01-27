@@ -1,0 +1,24 @@
+{
+  "name": "ben-api-javascript-integration",
+  "version": "1.0.0",
+  "description": "Javascript implemenetation of BEN API",
+  "main": "n",
+  "dependencies": {
+    "axios": "^1.x.x",
+    "sharp": "^0.x.x",
+    "@techstark/opencv-js": "^4.x.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PramaLLC/api-javascript-integration.git"
+  },
+  "author": "Prama LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PramaLLC/api-javascript-integration/issues"
+  },
+  "homepage": "https://github.com/PramaLLC/api-javascript-integration#readme"
+}

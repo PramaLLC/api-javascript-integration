@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { predictImage } = require('./foregroundRemoval');
+const { predictImage } = require('./main');
 
 async function main() {
   try {

@@ -13,12 +13,12 @@ npm install
 You must have a business subscription that can be found at https://backgrounderase.net/pricing. To generate the token navigate to
 https://backgrounderase.net/account and scroll to the bottom of the page.
 
-## Example code inside runForegroundRemoval.js
+## Example code inside example.js
 
 ```javascript
 const fs = require('fs');
 const path = require('path');
-const { predictImage } = require('./foregroundRemoval');
+const { predictImage } = require('./main');
 
 async function main() {
   try {
@@ -52,7 +52,7 @@ main();
 
 ## To run the example code
 ```bash
-node runForegroundRemoval.js
+node example.js
 ```
 
 

@@ -4,8 +4,8 @@ Javascript wrapper for the Background Removal API that removes backgrounds from 
 
 ## Installation
 ```bash
-git clone https://github.com/PramaLLC/api-javascript-integration
-cd api-javascript-integration
+git clone https://github.com/PramaLLC/ben-api-javascript-integration
+cd ben-api-javascript-integration
 npm install
 ```
 
